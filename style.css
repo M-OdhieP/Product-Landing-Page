@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', 'Tahoma', 'Verdana', sans-serif;
+}
+
+p {
+    margin: 0 0 20px;
+}
+
+.main {
+    padding-top: 20px;
+}
+
+.holder {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.list-reset {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.title {
+    display: block;
+    margin: 0 0 20px;
+    font-size: 35px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+}
+
+
+
+.plans {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
